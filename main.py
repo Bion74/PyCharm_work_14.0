@@ -3,4 +3,5 @@ print('Hello World!')
 num=5
 print(num)
 
-input()
+n=int(input("Введите число"))
+print(n)
